@@ -1,0 +1,7 @@
+.container{
+    width: 100%;
+    background: linear-gradient(to top, rgba(225, 218, 218, 0.5)50%,rgba(240, 235, 235, 0.5)50%), url(service1.jpg);
+    background-position: right;
+    background-size: contain;
+    height: 100vh;
+}
